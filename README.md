@@ -10,6 +10,10 @@ An end-to-end academic study of delivery-delay risk, combining exploratory analy
 
 Identify potentially late deliveries to support proactive monitoring and reduce missed delay alerts. The study prioritizes recall while considering false alarms.
 
+## Interactive Dashboards 
+<img width="1199" height="699" alt="Tổng quan" src="https://github.com/user-attachments/assets/d33abc35-8280-43f7-818f-a77e51ffcc3a" />
+<img width="1199" height="699" alt="Yếu tố rủi ro" src="https://github.com/user-attachments/assets/a6a39119-2bdb-453d-bee9-586666ffba9b" />
+
 ## Data and methodology
 
 - 43,739 original delivery records; 43,648 records in the modeling split (34,918 train / 8,730 evaluation).
