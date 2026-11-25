@@ -4,7 +4,7 @@
 
 An end-to-end academic study of delivery-delay risk, combining exploratory analysis, statistical testing, classification and operational visualization. The public Amazon Delivery Dataset is used as a proxy for an instant-delivery business problem; this is not a deployment or analysis of internal company data.
 
-[View interactive Tableau dashboard](https://public.tableau.com/app/profile/d.ng.tr.n7982/viz/NHOM_6/Yutriro?publish=yes) · [Business process diagram](reports/business_process.png)
+[View interactive Tableau dashboard](https://public.tableau.com:9443/views/DeliverySLARiskAnalysisOperationalRiskDashboard/Yutriro?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) · [Business process diagram](reports/business_process.png)
 
 ## Business objective
 
